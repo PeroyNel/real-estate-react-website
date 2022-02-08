@@ -21,9 +21,11 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import logo1 from '../assets/Logo1.png';
+import headermain from '../assets/HeaderMain.png';
 
 export default {
     bg,
+    headermain,
     chef,
     G,
     gallery01,
