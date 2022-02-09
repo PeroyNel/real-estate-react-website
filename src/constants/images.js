@@ -22,8 +22,16 @@ import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
 import logo1 from '../assets/Logo1.png';
 import headermain from '../assets/HeaderMain.png';
+import mask1 from '../assets/Mask1.png';
+import mask2 from '../assets/Mask2.png';
+import mask3 from '../assets/Mask3.png';
+import group from '../assets/Group.png';
 
 export default {
+    group,
+    mask1,
+    mask2,
+    mask3,
     bg,
     headermain,
     chef,

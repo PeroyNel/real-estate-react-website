@@ -18,17 +18,28 @@ const Header = () => (
           <p>Explore</p>
         </div>
       </button>
+
+      <div className="app__header-social">
+      <p>FB - IN - TW - BE</p>
+      </div>
+
+        
       
         
 
     </div>
     
+    
     <div className="app__wrapper_img">
       <img src={images.headermain} alt="header img"/>
     </div>
-
+    
+    <span className="app__header-divider1"></span>
+    
     
   </div>
+
+  
   
 );
 
