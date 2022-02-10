@@ -26,8 +26,16 @@ import mask1 from '../assets/Mask1.png';
 import mask2 from '../assets/Mask2.png';
 import mask3 from '../assets/Mask3.png';
 import group from '../assets/Group.png';
+import one from '../assets/1.png';
+import two from '../assets/2.png';
+import three from '../assets/3.png';
+import four from '../assets/4.png';
 
 export default {
+    one,
+    two,
+    three,
+    four,
     group,
     mask1,
     mask2,

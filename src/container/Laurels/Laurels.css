@@ -1,0 +1,13 @@
+.app__laurels {
+    width: 1922px;
+    height: 708px;
+    left: 0px;
+    top: 8460px;
+    /* 141414 Black */
+    background: #141414;
+}
+
+.app__laurels-grid {
+    /* Inside auto layout */
+    background: #fff;
+}
