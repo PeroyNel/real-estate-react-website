@@ -1,0 +1,17 @@
+.app__portfolio {
+    background-color: #fff;
+    display: flex;
+}
+
+.app__portfolio-h1 {
+    color: var(--color-black);
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 130%;
+    /* or 117px */
+    letter-spacing: 0.04em;
+    text-transform: capitalize;
+    padding-right: 0px;
+}
